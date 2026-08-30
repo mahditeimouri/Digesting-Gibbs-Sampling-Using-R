@@ -6,3 +6,4 @@ This handout has been developed for the following tasks.
 4- Elementary Bayesian inference. 
 5- Computing the moments and probabilities associated with the multivariate Gaussian (normal) distribution. 
 6- Bayesian inference for the multivariate skewed Gaussian and skewed- Student's t distributions.
+7- A concise introduction on the EM algorithm with some examples.
